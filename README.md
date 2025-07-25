@@ -1,6 +1,6 @@
 ###<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/77e60876-3977-493d-8f0a-796b04f77e53" />
 <h1 align="left">Hey 👋 What's up?</h1>
-
+<img src =https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmllcHp6ZG90ZGZndHF6MTcwOWdnaHo4cG00NXYzMGNjNHFib3QzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif>
 ###
 
 <p align="left">My name is Jimena and I'm a Lambare Py., im a programmer, my house is from iphone</p>
