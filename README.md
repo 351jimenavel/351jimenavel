@@ -1,10 +1,12 @@
+###<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/77e60876-3977-493d-8f0a-796b04f77e53" />
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
 <p align="left">My name is Jimena and I'm a Lambare Py., im a programmer, my house is from iphone</p>
 
-###
+
+
 
 <h2 align="left">About me</h2>
 
@@ -30,4 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
+<a href="[https://github.com/MartinHeinz/MartinHeinz](https://github.com/351jimenavel/351jimenavel/edit/main/README.md)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=351jimenavel&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 ###
