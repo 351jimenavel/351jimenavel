@@ -1,7 +1,6 @@
-###<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/77e60876-3977-493d-8f0a-796b04f77e53" />
+###
+<img src="first-banner-ezgif.com-video-to-gif-converter.gif" alt="Banner animado" width="100%">
 <h1 align="left">Hey 👋 What's up?</h1>
-<img src="![first-banner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4a862531-7f5d-43bf-a236-925dc95a120a)
-" alt="Banner animado" width="100%">
 ###
 
 <p align="left">My name is Jimena and I'm a Lambare Py., im a programmer, my house is from iphone</p>
