@@ -1,5 +1,5 @@
 ###
-<img src="Hi there! i’m jimena.gif" alt="Banner animado" width="100%">
+<img src="Hi there!.gif" alt="Banner animado" width="100%">
 <h1 align="left">Hey 👋 What's up?</h1>
 ###
 
