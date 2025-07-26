@@ -3,7 +3,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 ###
 
-<p align="left">My name is Jimena and I'm a Lambare Py., im a programmer, my house is from iphone</p>
+<p align="left">My name is Jimena and i'm from Paraguay 🇵🇾 </p>
 
 
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
