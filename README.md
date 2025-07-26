@@ -1,5 +1,5 @@
 ###
-<img src="first-banner-ezgif.com-video-to-gif-converter.gif" alt="Banner animado" width="100%">
+<img src="first-banner-2.gif" alt="Banner animado" width="100%">
 <h1 align="left">Hey 👋 What's up?</h1>
 ###
 
