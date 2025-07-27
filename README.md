@@ -1,23 +1,19 @@
 ###
 <img src="Hi there!.gif" alt="Banner animado" width="100%">
-<h1 align="left">Hey 👋 What's up?</h1>
-###
-
-<p align="left">My name is Jimena and i'm from Paraguay 🇵🇾 </p>
-
-
-
-
-<h2 align="left">About me</h2>
+<h1 align="left">👩‍💻 About Me</h1>
+<p align="left">Hey! I'm **Jimena**, a passionate developer from 🇵🇾 Paraguay.<br>🎓 **Mechatronics Engineering** student at *Universidad del Cono Sur de las Américas*.<br>🤖 I love **robotics** and learning by doing!</p>
+---
+<h2 align="left">🧪 Technologies I'm Exploring</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🚀 Working with:<br>**Python** 🐍 | **C++** ⚙️ | **HTML/CSS/JS** 🌐 | **Flask** 🔥 | **Artificial Intelligence** 🧠.<br>🔬 I'm actively building solo and team-based projects to grow my portfolio.  
+<br>🎯 Focused on logic, real-world applications and creative tools.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
-
+<h2 align="left">💡 My Developer Mindset</h2>
+<p align="left"><br>🤝 I believe in **collaborative learning** to tackle challenges while having fun. <br>🚀 Always open to exploring new tech with **creativity**, **discipline**, and **resilience**</p>
 ###
 
 <div align="left">
@@ -36,3 +32,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=351jimenavel&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 ###
+
