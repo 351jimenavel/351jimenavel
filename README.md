@@ -7,8 +7,8 @@
 
 ###
 
-<p align="left">🚀 Working with:<br>Python | C++ | HTML/CSS/JSn | Flask | Artificial Intelligence .<br>🔬 I'm actively building solo and team-based projects to grow my portfolio.  
-<br>🎯 Focused on logic, real-world applications and creative tools.</p>
+<p align="left">🚀 Working with:<br>Python | C++ | HTML/CSS/JSn | Flask | Artificial Intelligence .<br>I'm actively building solo and team-based projects to grow my portfolio.  
+<br>Focused on logic, real-world applications and creative tools.</p>
 
 ###
 
