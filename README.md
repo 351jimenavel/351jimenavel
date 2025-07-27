@@ -18,7 +18,6 @@
 
 <h2 align="left">🚀 Projects</h2>
 
-<table>
   <tr>
     <td valign="top">
       <p>
@@ -36,5 +35,4 @@
       <img src="ironman-flying.gif" alt="Ironman flying" width="300"/>
     </td>
   </tr>
-</table>
 
