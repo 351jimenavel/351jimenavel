@@ -15,11 +15,11 @@
 <p align="left">- I believe in collaborative learning to tackle challenges while having fun. <br>- Always open to exploring new tech with creativity, discipline, and resilience</p>
 
 ###
+<img src="ironman-flying.gif" alt="Ironman flying" width="400" align="right"/>
 
 <h2 align="left">🚀 Projects</h2>
 
 <p align="left">
-  <img src="ironman-flying.gif" alt="Ironman flying" width="400" align="right"/>
   <strong>🎧 <a href="https://github.com/351jimenavel/Hackathon-_404_NF">MoodWave</a></strong> AI-powered mood-based playlist generator. Hackathon winner!<br>
   <strong>💬 <a href="https://github.com/351jimenavel/-3---Chat-Socket---The-Huddle">Chat en Red</a></strong> Real-time terminal chat with sockets, threading, and selectors.<br>
   <strong>🧭 <a href="https://github.com/351jimenavel/-2---OOP-Calculadora-de-Rutas---The-Huddle">Calculadora de Rutas</a></strong> Pathfinding visualizer using BFS in a 2D grid.<br>
