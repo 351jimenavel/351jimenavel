@@ -13,8 +13,18 @@
 ###
 
 <h2 align="left">💡 My Developer Mindset</h2>
-<p align="left">🤝 I believe in **collaborative learning** to tackle challenges while having fun. <br>🚀 Always open to exploring new tech with **creativity**, **discipline**, and **resilience**</p>
+<p align="left">🤝 I believe in collaborative learning to tackle challenges while having fun. <br>🚀 Always open to exploring new tech with creativity, discipline, and resilience</p>
 ###
+
+<h2 align="left">🧰 My Toolbox</h2>
+![Python](https://img.shields.io/badge/-Python-0f0f0f?style=flat&logo=python)  
+![C++](https://img.shields.io/badge/-C++-0f0f0f?style=flat&logo=c%2B%2B&logoColor=00599C)  
+![HTML5](https://img.shields.io/badge/-HTML5-0f0f0f?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-0f0f0f?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-0f0f0f?style=flat&logo=javascript)  
+![Flask](https://img.shields.io/badge/-Flask-0f0f0f?style=flat&logo=flask)  
+![Git](https://img.shields.io/badge/-Git-0f0f0f?style=flat&logo=git)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-0f0f0f?style=flat&logo=visualstudiocode)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
