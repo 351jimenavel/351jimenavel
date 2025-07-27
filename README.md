@@ -18,11 +18,28 @@
 
 <h2 align="left">🚀 Projects</h2>
 
-[**MoodWave**](https://github.com/351jimenavel/Hackathon-_404_NF): AI-powered mood-based playlist generator. Hackathon winner!<br>
-[**Chat en Red**](https://github.com/351jimenavel/-3---Chat-Socket---The-Huddle): Real-time terminal chat with sockets, threading, and selectors.<br>
-[**Calculadora de Rutas**](https://github.com/351jimenavel/-2---OOP-Calculadora-de-Rutas---The-Huddle): Pathfinding visualizer using BFS in a 2D grid.<br>
-[**Laberinto Maestro**](https://github.com/351jimenavel/-2--Laberinto-DFS---The-Dive): C++ maze generator and solver using DFS.
+<table>
+  <tr>
+    <td valign="top">
+      
+      <p>
+        <strong>🎧 <a href="https://github.com/351jimenavel/Hackathon-_404_NF">MoodWave</a></strong><br>
+        AI-powered mood-based playlist generator. Hackathon winner!<br><br>
 
-<img src="ironman-flying.gif" alt="ironman flying" width="400"/>
+        <strong>💬 <a href="https://github.com/351jimenavel/-3---Chat-Socket---The-Huddle">Chat en Red</a></strong><br>
+        Real-time terminal chat with sockets, threading, and selectors.<br><br>
 
+        <strong>🧭 <a href="https://github.com/351jimenavel/-2---OOP-Calculadora-de-Rutas---The-Huddle">Calculadora de Rutas</a></strong><br>
+        Pathfinding visualizer using BFS in a 2D grid.<br><br>
+
+        <strong>🌀 <a href="https://github.com/351jimenavel/-2--Laberinto-DFS---The-Dive">Laberinto Maestro</a></strong><br>
+        C++ maze generator and solver using DFS.
+      </p>
+
+    </td>
+    <td>
+      <img src="ironman-flying.gif" alt="Ironman flying" width="300"/>
+    </td>
+  </tr>
+</table>
 
