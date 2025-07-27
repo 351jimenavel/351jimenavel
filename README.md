@@ -1,7 +1,6 @@
 ###
 <img src="Hi there!.gif" alt="Banner animado" width="100%">
 <h1 align="left">👩‍💻 About Me</h1>
-<img src="ironman-flying.gif" alt="Ironman flying" width="350" align="right" style="margin-left: 50px;"/>
 <p align="left">Hey! I'm Jimena, a passionate developer from 🇵🇾 Paraguay.<br>- Mechatronics Engineering student at Universidad del Cono Sur de las Américas.<br>- I love robotics and learning by doing!</p>
 
 <h2 align="left">🧪 Technologies I'm Exploring</h2>
@@ -12,6 +11,7 @@
 
 ###
 
+<img src="ironman-flying.gif" alt="Ironman flying" width="350" align="right" style="margin-left: 50px;"/>
 <h2 align="left">💡 My Developer Mindset</h2>
 <p align="left">- I believe in collaborative learning to tackle challenges while having fun. <br>- Always open to exploring new tech with creativity, discipline, and resilience</p>
 
