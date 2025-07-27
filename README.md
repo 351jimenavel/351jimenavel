@@ -3,7 +3,7 @@
 <h1 align="left">👩‍💻 About Me</h1>
 <p align="left">Hey! I'm Jimena, a passionate developer from 🇵🇾 Paraguay.<br>- Mechatronics Engineering student at Universidad del Cono Sur de las Américas.<br>- I love robotics and learning by doing!</p>
 
-<img src="ironman-flying.gif" alt="Ironman flying" width="500" align="right"/>
+  <img src="ironman-flying.gif" alt="Ironman flying" width="500" align="right"/>
 <h2 align="left">🧪 Technologies I'm Exploring</h2>
 
 ###
