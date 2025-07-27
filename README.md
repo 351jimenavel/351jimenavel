@@ -16,7 +16,8 @@
 
 ###
 
-<h2 align="left">-</h2>
+<h2 align="left">🚀 Projects</h2>
+<p align="left> [**MoodWave**]([https://github.com/TuUsuario/SongSage](https://github.com/351jimenavel/Hackathon-_404_NF): AI-powered mood-based playlist generator. 🏆 Hackathon winner.<br>[**Calculadora de Rutas**]([https://github.com/TuUsuario/THE-HUDDLE](https://github.com/351jimenavel/-2---OOP-Calculadora-de-Rutas---The-Huddle): Pathfinding visualizer using BFS in a 2D grid.<br>[**Laberinto Maestro**]([https://github.com/TuUsuario/Laberinto-Maestro](https://github.com/351jimenavel/-2--Laberinto-DFS---The-Dive): C++ maze generator and solver using DFS.<br>[**Chat en Red**]([https://github.com/TuUsuario/Chat-en-Red](https://github.com/351jimenavel/-3---Chat-Socket---The-Huddle): Real-time terminal chat with sockets, threading, and selectors.
 
 
 
