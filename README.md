@@ -18,7 +18,7 @@
 ###
 
 <h2 align="left">🧰 My Toolbox</h2>
-[!Python](https://img.shields.io/badge/-Python-0f0f0f?style=flat&logo=python)  
+![Python](https://img.shields.io/badge/-Python-0f0f0f?style=flat&logo=python)  
 ![C++](https://img.shields.io/badge/-C++-0f0f0f?style=flat&logo=c%2B%2B&logoColor=00599C)  
 ![HTML5](https://img.shields.io/badge/-HTML5-0f0f0f?style=flat&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-0f0f0f?style=flat&logo=css3)  
@@ -26,6 +26,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-0f0f0f?style=flat&logo=flask)  
 ![Git](https://img.shields.io/badge/-Git-0f0f0f?style=flat&logo=git)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0f0f0f?style=flat&logo=visualstudiocode)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
