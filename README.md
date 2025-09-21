@@ -25,3 +25,6 @@
   <strong>🧭 <a href="https://github.com/351jimenavel/-2---OOP-Calculadora-de-Rutas---The-Huddle">Calculadora de Rutas</a></strong> Pathfinding visualizer using BFS in a 2D grid.<br>
   <strong>🌀 <a href="https://github.com/351jimenavel/-2--Laberinto-DFS---The-Dive">Laberinto Maestro</a></strong> C++ maze generator and solver using DFS.
 </p>
+
+<h2 align="left">📊 Stats </h2>
+![Jimena's GitHub stats](https://github-readme-stats.vercel.app/api?username=351jimenavel&show_icons=true&theme=radical)  
