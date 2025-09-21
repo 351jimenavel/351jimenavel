@@ -27,4 +27,5 @@
 </p>
 
 <h2 align="left">📊 Stats </h2>
+
 ![Jimena's GitHub stats](https://github-readme-stats.vercel.app/api?username=351jimenavel&show_icons=true&theme=radical)  
