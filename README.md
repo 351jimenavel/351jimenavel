@@ -1,7 +1,7 @@
 ###
 <img src="Hi there!.gif" alt="Banner animado" width="100%">
 <h1 align="left">👩‍💻 About Me</h1>
-<p align="left">Hey! I'm Jimena, a passionate developer from 🇵🇾 Paraguay.<br>- Mechatronics Engineering student at Universidad del Cono Sur de las Américas.<br>- I love robotics and learning by doing!</p>
+<p align="left">Hey! I'm Jimena, a passionate developer from 🇵🇾 Paraguay.<br>- Mechatronics Engineering student.<br>- I love robotics and learning by doing!</p>
 
 <h2 align="left">🧪 Technologies I'm Exploring</h2>
 
